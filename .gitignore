@@ -6,12 +6,12 @@
  
 # 특정 경로안의 특정 파일 제외
 #폴더명/파일명.txt
-Project_DataStructure/packages/
+/Project_DataStructure/packages/
 
 
 # 특정 폴더안의 파일 전부 제외
 #폴더명/
-최종발표/
+/최종발표/
  
 # 해당 확장자 파일 전체 제외
 #*.txt
